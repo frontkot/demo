@@ -1,4 +1,10 @@
 {
+  "users": [
+    {"name": "Igor", "surname": "Kolomoyskiy", "position": "Kaznokrad"},
+    {"name": "Igor", "surname": "Surkis", "position": "Surkisyan"},
+    {"name": "Petro", "surname": "Poroshenko", "position": "Shokoladniy kaznokrad"},
+    {"name": "Rinat", "surname": "Akhmetov", "position": "Kaznokrad"}
+  ]
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
@@ -9,6 +15,6 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "frontkot"
   }
 }
